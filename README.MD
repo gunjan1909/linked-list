@@ -1,6 +1,6 @@
 ## Linked List
 
-Credits: [CodeHelp-Love Babbar](https://www.youtube.com/c/CodeHelpbyBabbar)
+### Credits: [CodeHelp-Love Babbar](https://www.youtube.com/c/CodeHelpbyBabbar)
 
 Link to video: [Lec44:LinkedList](https://youtu.be/q8gdBn9RPeI)
 
