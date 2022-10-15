@@ -76,6 +76,7 @@ void insertAtHead(Node *&tail, Node *&head, int d)
 
 void insertAtTail(Node *&tail, Node *&head, int d)
 {
+   //empty list
    if (tail == NULL)
    {
       Node *temp = new Node(d);
